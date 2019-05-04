@@ -2,19 +2,17 @@
 
 Private Repository for HW assignments of Stat 133 (Spring 2019)
 
-- Name: Your name (first last)
-- Github username: usrname
-- Email: address [at] email.com
+- Name: Krista Waugh
+- Github username: kristawaugh
+- Email: kristawaugh@berkeley.edu
 - Lab section: 101
-- GSI: Leia Organa
+- GSI: Colin Kou
 
 -----
 
-## Assignments
+## Workout 03
+I didnt know how to use my github classroom repository, so everything (the amount that I got through) of workout 03 is in my personal github repository. Here is the link. 
 
-- [Demo](demo)
-- [Workout 1](workout1)
-- Workout 2
-- Workout 3
+https://github.com/kristawaugh/workout03
 
 
